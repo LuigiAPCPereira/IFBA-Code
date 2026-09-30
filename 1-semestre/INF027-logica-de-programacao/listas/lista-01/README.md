@@ -1,14 +1,18 @@
 # Lista de Exercícios I — INF027
 
-Fonte oficial de referência: https://ads.ifba.edu.br/dl1012
+Esta é a lista que estou usando para acompanhar meu progresso em INF027.
 
-A lista oficial possui **100 questões**. Para manter este repositório legível e respeitar o material original, os itens abaixo são **resumos próprios**; consulte o PDF oficial para fórmulas, exemplos e detalhes completos.
+A lista tem **100 questões**. Deixei um resumo de cada uma aqui para conseguir consultar rapidamente o que falta fazer; quando eu precisar dos detalhes, fórmulas ou exemplos completos, volto para a fonte oficial:
 
-## Status
+https://ads.ifba.edu.br/dl1012
 
-- [ ] ainda sem solução versionada
-- [x] solução presente no repositório
-- 🟡 resolvida fora do GitHub, mas ainda pendente de envio
+## Meu progresso
+
+**1 de 100 questões com solução no repositório.**
+
+- [ ] ainda não enviei uma solução;
+- [x] a solução já está no GitHub;
+- 🟡 já resolvi, mas ainda falta enviar o código.
 
 ### 1–20 · Fundamentos, expressões e cálculos
 
@@ -47,7 +51,7 @@ A lista oficial possui **100 questões**. Para manter este repositório legível
 - [ ] **Q029** — Calcular desconto previdenciário de 11%, respeitando o teto informado no exercício.
 - [ ] **Q030** — Calcular o valor de combustível aplicando descontos diferentes para álcool/gasolina e quantidade abastecida.
 - [ ] **Q031** — Calcular o Quarterback Rating a partir das estatísticas de passe, respeitando os limites de cada parcela.
-- [x] **Q032** — Classificar um caractere como vogal, consoante, número ou símbolo.
+- [x] **[Q032](./q032.c)** — Classificar um caractere como vogal, consoante, número ou símbolo.
 - [ ] **Q033** — Identificar quadrante, eixo ou origem de um ponto (x, y) no plano cartesiano.
 - [ ] **Q034** — Decidir se um empréstimo pode ser concedido com base em renda, valor solicitado e número de parcelas.
 - [ ] **Q035** — Converter um inteiro de 1 a 7 para o dia da semana correspondente, tratando entradas inválidas.
@@ -134,16 +138,25 @@ A lista oficial possui **100 questões**. Para manter este repositório legível
 - [ ] **Q100** — Verificar se uma matriz N×N forma um Quadrado Latino de ordem N.
 
 
-## Como adicionar uma solução
+## Como estou guardando as soluções
 
-1. Crie o arquivo em `solucoes/qNNN.c`.
-2. Use código escrito por você.
-3. Teste o programa.
-4. Troque o checkbox da questão para `[x]`.
-5. Faça um commit com mensagem curta e específica, por exemplo:
-   `feat(inf027): resolve lista 01 questão 32`.
+Quando termino uma questão, salvo o código nesta mesma pasta usando o número dela no nome do arquivo.
 
-## Observações da fonte
+Por exemplo, a primeira que coloquei aqui foi a **[Q032](./q032.c)**.
+
+Assim, esta pasta vai ficando mais ou menos assim:
+
+```text
+lista-01/
+├── README.md
+├── q032.c
+├── q033.c
+└── ...
+```
+
+Sempre que eu adicionar uma solução, também atualizo o checkbox correspondente acima.
+
+## Observações da lista
 
 - As questões **48 e 49** aparecem com o mesmo enunciado na lista oficial.
 - As questões **79 e 83** tratam da mesma operação de substring.
