@@ -10,8 +10,6 @@ A lista oficial possui **100 questões**. Para manter este repositório legível
 - [x] solução presente no repositório
 - 🟡 resolvida fora do GitHub, mas ainda pendente de envio
 
-> **Q032:** já resolvida localmente e aguardando o arquivo `solucoes/q032.c`.
-
 ### 1–20 · Fundamentos, expressões e cálculos
 
 - [ ] **Q001** — Calcular área e perímetro de um retângulo a partir da base e da altura.
