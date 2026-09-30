@@ -1,30 +1,32 @@
 # IFBA Code
 
-Repositório acadêmico pessoal para organizar minhas atividades, listas, avaliações e projetos do curso de **Análise e Desenvolvimento de Sistemas (ADS)** do **IFBA — Campus Salvador**.
+Criei este repositório para reunir o que eu for fazendo durante o curso de **Análise e Desenvolvimento de Sistemas (ADS)** no **IFBA — Campus Salvador**.
 
-> Este repositório contém minhas próprias soluções e anotações. Os enunciados abaixo são resumos para organização; quando disponível, a fonte oficial do IFBA é indicada para consulta do enunciado completo.
+A ideia é simples: em vez de deixar códigos, listas e avaliações espalhados, quero manter tudo organizado aqui e conseguir acompanhar minha evolução ao longo dos semestres.
 
-## Organização
+## Semestres
 
 | Semestre | Disciplina | Conteúdo |
 |---|---|---|
 | [1º semestre](./1-semestre/) | [INF027 — Introdução à Lógica de Programação](./1-semestre/INF027-logica-de-programacao/) | C, listas de exercícios e avaliações |
 
-## Como estou organizando
+## Como estou usando o repositório
 
-A ideia é usar este repositório para guardar o que eu for fazendo durante o curso sem deixar tudo espalhado ou misturado.
+Cada semestre fica em sua própria pasta e, dentro dele, separo o conteúdo por disciplina.
 
-- Cada semestre fica em uma pasta própria.
-- Dentro de cada disciplina eu separo listas, avaliações, trabalhos e outros materiais quando fizer sentido.
-- Para as questões de programação, uso nomes simples como `q032.c`, porque fica fácil encontrar pelo número.
-- Quando eu terminar uma questão e o código já estiver aqui no GitHub, marco como **✅ concluída**.
-- Se eu já resolvi a questão, mas ainda não coloquei o código no repositório, deixo como **🟡 pendente de envio**.
+Nas atividades de programação, os arquivos recebem o número da questão, como `q032.c`. Assim consigo bater o olho na lista e encontrar rapidamente o código correspondente.
 
-## Fontes oficiais
+Para acompanhar o que já fiz:
+
+- **[ ]** ainda não coloquei uma solução no repositório;
+- **[x]** a solução já está aqui;
+- **🟡** já resolvi, mas ainda falta enviar o código.
+
+## Fontes que estou usando
 
 - Portal do curso de ADS: https://ads.ifba.edu.br/
 - Material da INF027 — Turma 01: https://ads.ifba.edu.br/file6
 
 ---
 
-A ideia é ir completando este repositório ao longo do curso e, de quebra, conseguir acompanhar minha própria evolução.
+Quero continuar alimentando este repositório durante o curso e deixar registrado, semestre por semestre, o que fui aprendendo e construindo.
