@@ -10,14 +10,15 @@ Repositório acadêmico pessoal para organizar minhas atividades, listas, avalia
 |---|---|---|
 | [1º semestre](./1-semestre/) | [INF027 — Introdução à Lógica de Programação](./1-semestre/INF027-logica-de-programacao/) | C, listas de exercícios e avaliações |
 
-## Convenções
+## Como estou organizando
 
-- Cada semestre possui uma pasta própria.
-- Cada disciplina possui um `README.md` com contexto, fontes e progresso.
-- Listas e avaliações ficam separadas.
-- Soluções de programação usam nomes previsíveis, como `q032.c`.
-- Uma questão só recebe **✅ concluída** quando a solução correspondente estiver versionada no repositório.
-- **🟡 pendente de envio** significa que a solução já foi feita fora do GitHub, mas ainda não está versionada aqui.
+A ideia é usar este repositório para guardar o que eu for fazendo durante o curso sem deixar tudo espalhado ou misturado.
+
+- Cada semestre fica em uma pasta própria.
+- Dentro de cada disciplina eu separo listas, avaliações, trabalhos e outros materiais quando fizer sentido.
+- Para as questões de programação, uso nomes simples como `q032.c`, porque fica fácil encontrar pelo número.
+- Quando eu terminar uma questão e o código já estiver aqui no GitHub, marco como **✅ concluída**.
+- Se eu já resolvi a questão, mas ainda não coloquei o código no repositório, deixo como **🟡 pendente de envio**.
 
 ## Fontes oficiais
 
@@ -26,4 +27,4 @@ Repositório acadêmico pessoal para organizar minhas atividades, listas, avalia
 
 ---
 
-Construído para acompanhar minha evolução ao longo do curso sem misturar exercícios, avaliações e projetos.
+A ideia é ir completando este repositório ao longo do curso e, de quebra, conseguir acompanhar minha própria evolução.
