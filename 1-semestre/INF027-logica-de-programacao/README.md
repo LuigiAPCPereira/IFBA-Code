@@ -21,7 +21,7 @@ Esta pasta reúne o que estou fazendo em **INF027**. Preferi deixar as listas de
 Já tenho duas soluções versionadas aqui:
 
 - ✅ [Q032 — classificação de caractere](./listas/lista-01/q032.c)
-- ✅ [Q040 — número por extenso](./listas/lista-01/q040.c)
+- ✅ [Q040 — número por extenso](./listas/lista-01/q040.c) — exercício original de 1 a 100, ampliado por mim para 1 a 999 como desafio.
 
 As próximas soluções seguem o mesmo esquema de nome, usando o número da questão no arquivo, dentro da pasta da própria lista.
 

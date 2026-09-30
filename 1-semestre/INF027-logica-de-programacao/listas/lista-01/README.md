@@ -60,6 +60,7 @@ https://ads.ifba.edu.br/dl1012
 - [ ] **Q038** — Verificar se um ano é bissexto segundo as regras de divisibilidade por 4, 100 e 400.
 - [ ] **Q039** — Calcular o dígito verificador de uma agência pelo método módulo 11.
 - [x] **[Q040](./q040.c)** — Receber um inteiro de 1 a 100 e escrevê-lo por extenso.
+  - **Desafio pessoal:** depois de resolver o intervalo original de 1 a 100, ampliei minha solução para trabalhar de **1 a 999**, separando o tratamento em centena, dezena e unidade.
 
 
 ### 41–60 · Estruturas de repetição
