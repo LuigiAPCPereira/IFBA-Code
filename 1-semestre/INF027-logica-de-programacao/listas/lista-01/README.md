@@ -8,7 +8,7 @@ https://ads.ifba.edu.br/dl1012
 
 ## Meu progresso
 
-**1 de 100 questões com solução no repositório.**
+**2 de 100 questões com solução no repositório.**
 
 - [ ] ainda não enviei uma solução;
 - [x] a solução já está no GitHub;
@@ -59,7 +59,7 @@ https://ads.ifba.edu.br/dl1012
 - [ ] **Q037** — Calcular o custo de pulverização agrícola considerando tipo de praga, área e regras de desconto.
 - [ ] **Q038** — Verificar se um ano é bissexto segundo as regras de divisibilidade por 4, 100 e 400.
 - [ ] **Q039** — Calcular o dígito verificador de uma agência pelo método módulo 11.
-- [ ] **Q040** — Receber um inteiro de 1 a 100 e escrevê-lo por extenso.
+- [x] **[Q040](./q040.c)** — Receber um inteiro de 1 a 100 e escrevê-lo por extenso.
 
 
 ### 41–60 · Estruturas de repetição
@@ -142,7 +142,7 @@ https://ads.ifba.edu.br/dl1012
 
 Quando termino uma questão, salvo o código nesta mesma pasta usando o número dela no nome do arquivo.
 
-Por exemplo, a primeira que coloquei aqui foi a **[Q032](./q032.c)**.
+As primeiras que coloquei aqui foram a **[Q032](./q032.c)** e a **[Q040](./q040.c)**.
 
 Assim, esta pasta vai ficando mais ou menos assim:
 
@@ -150,7 +150,7 @@ Assim, esta pasta vai ficando mais ou menos assim:
 lista-01/
 ├── README.md
 ├── q032.c
-├── q033.c
+├── q040.c
 └── ...
 ```
 

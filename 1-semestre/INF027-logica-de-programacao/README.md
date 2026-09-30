@@ -18,10 +18,11 @@ Esta pasta reúne o que estou fazendo em **INF027**. Preferi deixar as listas de
 
 ## Meu progresso
 
-Já tenho minha primeira solução versionada aqui:
+Já tenho duas soluções versionadas aqui:
 
 - ✅ [Q032 — classificação de caractere](./listas/lista-01/q032.c)
+- ✅ [Q040 — número por extenso](./listas/lista-01/q040.c)
 
-As próximas soluções vão seguindo o mesmo esquema de nome, como `q033.c`, `q034.c` e assim por diante, dentro da pasta da própria lista.
+As próximas soluções seguem o mesmo esquema de nome, usando o número da questão no arquivo, dentro da pasta da própria lista.
 
 Dessa forma, o README da lista funciona como meu checklist e os arquivos `.c` ficam logo ao lado dele.
