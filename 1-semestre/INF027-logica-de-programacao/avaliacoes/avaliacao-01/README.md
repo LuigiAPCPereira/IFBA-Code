@@ -1,10 +1,10 @@
-# Avaliação I — banco de questões
+# Avaliação I — INF027
 
-Esta área é **separada da Lista de Exercícios I**. O objetivo é usar primeiras avaliações anteriores da INF027 como banco de prática, sem misturar o progresso delas com o progresso da lista.
+Separei esta parte das listas porque quero usar **avaliações anteriores** como um material de prática diferente dos exercícios da Lista I.
 
-Fonte da galeria da **INF027 — Turma 01**: https://ads.ifba.edu.br/file6
+A ideia é ir reunindo aqui as questões que eu encontrar das primeiras avaliações da Turma 01 e, conforme eu for resolvendo, adicionar meus códigos sem misturar esse progresso com o das listas.
 
-Os textos abaixo são resumos próprios dos enunciados oficiais.
+Fonte geral da **INF027 — Turma 01**: https://ads.ifba.edu.br/file6
 
 ## Avaliação I — 2012.2
 
@@ -24,16 +24,16 @@ Fonte: https://ads.ifba.edu.br/dl1954
 - [ ] **Q3 — Média descartando a menor nota:** ler quatro notas, descartar a menor e calcular a média das três restantes.
 - [ ] **Q4 — Comparação de idades:** comparar duas idades informadas em anos, meses e dias e indicar qual pessoa é mais velha ou se são iguais.
 
-## Arquivos recentes de Avaliação I identificados na galeria oficial
+## Outras Avaliações I que encontrei
 
-A galeria da Turma 01 também mantém arquivos mais recentes, em formato ZIP, que o site disponibiliza como material/solução. Eles ficam registrados aqui para não perdermos a fonte, mas os enunciados ainda não foram transcritos para este índice porque os ZIPs não estão sendo expostos em formato legível pela consulta atual.
+No material da Turma 01 também encontrei arquivos mais recentes em ZIP. Estou deixando os nomes registrados aqui para não perder essas referências.
 
-| Período | Arquivo oficial |
+| Período | Arquivo no material oficial |
 |---|---|
 | 2023.2 | `IFBAINF027AvaliacaoI2023.2.zip` |
 | 2024.1 | `IFBAINF027AvaliacaoI2024.1.zip` |
 | 2024.2 | `INF027Aval12024.2.zip` |
 | 2025.2 | `INF027Aval120252.zip` |
-| 2026.1 | `INF027.20261-Resolucao.zip` — arquivo de resolução publicado antes da Avaliação II |
+| 2026.1 | `INF027.20261-Resolucao.zip` |
 
-Quando os enunciados desses arquivos estiverem acessíveis de forma verificável, cada avaliação deve ganhar sua própria subseção/pasta, mantendo o mesmo padrão de checklist e `solucoes/qNN.c`.
+Ainda não coloquei as questões desses ZIPs neste índice porque quero registrar apenas enunciados que eu consiga conferir corretamente. Quando eu acessar cada um, posso separar as avaliações por período e ir marcando as questões resolvidas do mesmo jeito que faço nas listas.
