@@ -2,38 +2,26 @@
 
 **Turma:** 01  
 **Professor:** Frederico Barboza  
-**Linguagem principal:** C  
-**Semestre no curso:** 1º
+**Linguagem que estou usando:** C  
+**Semestre:** 1º
 
-Esta pasta concentra os exercícios e códigos relacionados à disciplina, mantendo **listas de exercícios** e **avaliações** em áreas diferentes.
+Esta pasta reúne o que estou fazendo em **INF027**. Preferi deixar as listas de exercícios separadas das avaliações para conseguir acompanhar cada coisa sem misturar os dois.
 
-## Conteúdo
+## Listas
 
-### Listas de exercícios
+- [Lista de Exercícios I](./listas/lista-01/) — 100 questões.
+- Fonte da lista: https://ads.ifba.edu.br/dl1012
 
-- [Lista de Exercícios I](./listas/lista-01/) — 100 questões organizadas por assunto.
-- Fonte de referência: https://ads.ifba.edu.br/dl1012
+## Avaliações
 
-### Avaliações
+- [Avaliação I](./avaliacoes/avaliacao-01/) — questões de primeiras avaliações anteriores que estou usando como material de prática.
 
-- [Avaliação I — banco de questões históricas](./avaliacoes/avaliacao-01/) — questões de primeiras avaliações mantidas separadamente das listas.
+## Meu progresso
 
-## Progresso
+Já tenho minha primeira solução versionada aqui:
 
-A questão **32 da Lista I** já foi resolvida localmente, mas o código ainda não está neste repositório. Por isso ela permanece marcada como **🟡 pendente de envio**, e não como concluída.
+- ✅ [Q032 — classificação de caractere](./listas/lista-01/q032.c)
 
-## Estrutura de soluções
+As próximas soluções vão seguindo o mesmo esquema de nome, como `q033.c`, `q034.c` e assim por diante, dentro da pasta da própria lista.
 
-Quando uma solução for adicionada:
-
-```text
-listas/
-└── lista-01/
-    ├── README.md
-    └── solucoes/
-        ├── q001.c
-        ├── q002.c
-        └── q032.c
-```
-
-O mesmo padrão será usado para avaliações.
+Dessa forma, o README da lista funciona como meu checklist e os arquivos `.c` ficam logo ao lado dele.
