@@ -1,11 +1,11 @@
 # 1º semestre — ADS
 
-Período letivo de referência: **2026.2**.
+Este é o meu espaço para organizar as disciplinas e atividades do **1º semestre**, referente ao período letivo **2026.2**.
 
-## Disciplinas neste repositório
+## Disciplinas
 
-| Código | Disciplina | Status |
+| Código | Disciplina | Situação |
 |---|---|---|
 | [INF027](./INF027-logica-de-programacao/) | Introdução à Lógica de Programação | Em andamento |
 
-Novas disciplinas podem ser adicionadas aqui conforme atividades e códigos forem sendo produzidos.
+Por enquanto a INF027 é a primeira disciplina que estou organizando aqui. Conforme eu tiver códigos, listas, trabalhos ou outras atividades das demais matérias, vou adicionando cada uma em sua própria pasta.
