@@ -49,7 +49,7 @@ A lista oficial possui **100 questões**. Para manter este repositório legível
 - [ ] **Q029** — Calcular desconto previdenciário de 11%, respeitando o teto informado no exercício.
 - [ ] **Q030** — Calcular o valor de combustível aplicando descontos diferentes para álcool/gasolina e quantidade abastecida.
 - [ ] **Q031** — Calcular o Quarterback Rating a partir das estatísticas de passe, respeitando os limites de cada parcela.
-- [ ] **Q032** 🟡 — Classificar um caractere como vogal, consoante, número ou símbolo.
+- [x] **Q032** — Classificar um caractere como vogal, consoante, número ou símbolo.
 - [ ] **Q033** — Identificar quadrante, eixo ou origem de um ponto (x, y) no plano cartesiano.
 - [ ] **Q034** — Decidir se um empréstimo pode ser concedido com base em renda, valor solicitado e número de parcelas.
 - [ ] **Q035** — Converter um inteiro de 1 a 7 para o dia da semana correspondente, tratando entradas inválidas.
