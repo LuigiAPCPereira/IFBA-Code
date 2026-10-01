@@ -10,11 +10,6 @@ A ideia é simples: em vez de deixar códigos, listas e avaliações espalhados,
 |---|---|---|
 | [1º semestre](./1-semestre/) | [INF027 — Introdução à Lógica de Programação](./1-semestre/INF027-logica-de-programacao/) | C, listas de exercícios e avaliações |
 
-## Como estou usando o repositório
-
-Cada semestre fica em sua própria pasta e, dentro dele, separo o conteúdo por disciplina.
-
-Nas atividades de programação, os arquivos recebem o número da questão, como `q032.c`. Assim consigo bater o olho na lista e encontrar rapidamente o código correspondente.
 
 Para acompanhar o que já fiz:
 
