@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-    Escreva um programa que receba um numero inteiro de 1 a 999 e mostre na tela o 
+    Escreva um programa que receba um numero inteiro de -1000 a 1000 e mostre na tela o 
     numero por extenso.
 */
 void especial(int numero) {
@@ -17,6 +17,7 @@ void especial(int numero) {
         case 18: printf("DEZOITO"); break;
         case 19: printf("DEZENOVE"); break;
         case 100: printf("CEM"); break;
+        case 1000: printf("MIL"); break;
     }
 }
 int centena(int numero) {
@@ -78,12 +79,15 @@ int main() {
     
     printf("Digite um número: \n-> ");
     scanf("%i", &numero);
-    
-    if (numero >= 10 && numero <= 19 || numero == 100) {
-        especial(numero);
-    } else {
-        numero = centena(numero);
-        numero = dezena(numero);
-        unidade(numero);
+    if (numero >= -1000 && numero <= 1000) {
+        if (numero < 0) { printf("MENOS "); numero = numero * -1;}
+
+        if ((numero >= 10 && numero <= 19) || numero == 100 || numero == 1000) {
+            especial(numero);
+        } else {
+            numero = centena(numero);
+            numero = dezena(numero);
+            unidade(numero);
     }
+    } else {printf("Número fora do intervalo permitido.");}
 }
