@@ -83,7 +83,7 @@ int main() {
     if (numero >= -1000 && numero <= 1000) {
         if (numero < 0) { printf("MENOS "); numero = numero * -1;}
 
-        if ((numero >= 10 && numero <= 19) || numero == 100 || numero == 1000) {
+        if ((numero >= 10 && numero <= 19) || numero == 100 || numero == 1000 || numero == 0) {
             especial(numero);
         } else {
             numero = centena(numero);
