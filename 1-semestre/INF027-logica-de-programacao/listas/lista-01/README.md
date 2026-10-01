@@ -8,7 +8,7 @@ https://ads.ifba.edu.br/dl1012
 
 ## Meu progresso
 
-**2 de 100 questões com solução no repositório.**
+**5 de 100 questões com solução no repositório.**
 
 - [ ] ainda não enviei uma solução;
 - [x] a solução já está no GitHub;
@@ -16,9 +16,9 @@ https://ads.ifba.edu.br/dl1012
 
 ### 1–20 · Fundamentos, expressões e cálculos
 
-- [ ] **Q001** — Calcular área e perímetro de um retângulo a partir da base e da altura.
-- [ ] **Q002** — Calcular área e perímetro de um quadrado a partir do lado.
-- [ ] **Q003** — Calcular área e perímetro de uma circunferência a partir do raio.
+- [x] **[Q001](./q001.c)** — Calcular área e perímetro de um retângulo a partir da base e da altura.
+- [x] **[Q002](./q002.c)** — Calcular área e perímetro de um quadrado a partir do lado.
+- [x] **[Q003](./q003.c)** — Calcular área e perímetro de uma circunferência a partir do raio.
 - [ ] **Q004** — Calcular o perímetro de um triângulo a partir dos três lados.
 - [ ] **Q005** — Ler um inteiro e exibir seu sucessor.
 - [ ] **Q006** — Ler dois inteiros e exibir quociente e resto da divisão inteira.
@@ -60,7 +60,7 @@ https://ads.ifba.edu.br/dl1012
 - [ ] **Q038** — Verificar se um ano é bissexto segundo as regras de divisibilidade por 4, 100 e 400.
 - [ ] **Q039** — Calcular o dígito verificador de uma agência pelo método módulo 11.
 - [x] **[Q040](./q040.c)** — Receber um inteiro de 1 a 100 e escrevê-lo por extenso.
-  - **Desafio pessoal:** depois de resolver o intervalo original de 1 a 100, ampliei minha solução para trabalhar de **1 a 999**, separando o tratamento em centena, dezena e unidade.
+  - **Desafio pessoal:** depois de resolver o intervalo original de 1 a 100, ampliei minha solução primeiro para **1 a 999** e depois para aceitar valores negativos até **-1000** e o valor **1000**, além de adicionar validação de intervalo. O caso `0` ainda precisa de ajuste.
 
 
 ### 41–60 · Estruturas de repetição
@@ -143,13 +143,16 @@ https://ads.ifba.edu.br/dl1012
 
 Quando termino uma questão, salvo o código nesta mesma pasta usando o número dela no nome do arquivo.
 
-As primeiras que coloquei aqui foram a **[Q032](./q032.c)** e a **[Q040](./q040.c)**.
+Já tenho soluções da **[Q001](./q001.c)**, **[Q002](./q002.c)**, **[Q003](./q003.c)**, **[Q032](./q032.c)** e **[Q040](./q040.c)**.
 
 Assim, esta pasta vai ficando mais ou menos assim:
 
 ```text
 lista-01/
 ├── README.md
+├── q001.c
+├── q002.c
+├── q003.c
 ├── q032.c
 ├── q040.c
 └── ...
