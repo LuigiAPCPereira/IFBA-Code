@@ -9,7 +9,7 @@ int main (){
     float base,altura,area,perimetro;
     
     printf("Digite a base e a altura do retângulo: \n-> ");
-    scanf("%f", &base, &altura);
+    scanf("%f %f", &base, &altura);
     
     area = base * altura;
     perimetro = 2 * (base+altura);
