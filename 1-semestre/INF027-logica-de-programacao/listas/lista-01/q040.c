@@ -6,6 +6,7 @@
 */
 void especial(int numero) {
     switch (numero) {
+        case 0: printf("ZERO"); break;
         case 10: printf("DEZ"); break;
         case 11: printf("ONZE"); break;
         case 12: printf("DOZE"); break;
