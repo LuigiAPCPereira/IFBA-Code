@@ -18,10 +18,13 @@ Esta pasta reúne o que estou fazendo em **INF027**. Preferi deixar as listas de
 
 ## Meu progresso
 
-Já tenho duas soluções versionadas aqui:
+Já tenho cinco soluções versionadas aqui:
 
+- ✅ [Q001 — área e perímetro de retângulo](./listas/lista-01/q001.c)
+- ✅ [Q002 — área e perímetro de quadrado](./listas/lista-01/q002.c)
+- ✅ [Q003 — área e perímetro de circunferência](./listas/lista-01/q003.c)
 - ✅ [Q032 — classificação de caractere](./listas/lista-01/q032.c)
-- ✅ [Q040 — número por extenso](./listas/lista-01/q040.c) — exercício original de 1 a 100, ampliado por mim para 1 a 999 como desafio.
+- ✅ [Q040 — número por extenso](./listas/lista-01/q040.c) — exercício original de 1 a 100, ampliado por mim como desafio; a versão atual já trata negativos, ±1000 e validação de intervalo, com o caso `0` ainda em ajuste.
 
 As próximas soluções seguem o mesmo esquema de nome, usando o número da questão no arquivo, dentro da pasta da própria lista.
 
