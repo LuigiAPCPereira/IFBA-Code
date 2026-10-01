@@ -24,7 +24,7 @@ Já tenho cinco soluções versionadas aqui:
 - ✅ [Q002 — área e perímetro de quadrado](./listas/lista-01/q002.c)
 - ✅ [Q003 — área e perímetro de circunferência](./listas/lista-01/q003.c)
 - ✅ [Q032 — classificação de caractere](./listas/lista-01/q032.c)
-- ✅ [Q040 — número por extenso](./listas/lista-01/q040.c) — exercício original de 1 a 100, ampliado por mim como desafio; a versão atual já trata negativos, ±1000 e validação de intervalo, com o caso `0` ainda em ajuste.
+- ✅ [Q040 — número por extenso](./listas/lista-01/q040.c) — exercício original de 1 a 100, ampliado por mim como desafio até cobrir todo o intervalo de -1000 a 1000, incluindo `0`, números negativos e validação de intervalo.
 
 As próximas soluções seguem o mesmo esquema de nome, usando o número da questão no arquivo, dentro da pasta da própria lista.
 
