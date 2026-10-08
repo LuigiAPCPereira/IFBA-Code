@@ -23,7 +23,8 @@ int main() {
 
     DistPost = DistPonto - DistAnt; // Calcula a distância posterior 
     
-    (DistAnt < DistPost) ? printf("O melhor percurso é no inicio da avenida, onde é necessário caminhar %d até chegar a escola.", DistAnt) 
-                         : printf("O melhor percurso é no final da avenida, onde é necessário caminhar %d até chegar a escola.", DistPost);
+    if (DistAnt == 0) { printf("O melhor percurso é descer no ponto %d. Portanto, não sendo necessário caminhar.\n", PtAnt); }
+    else if (DistAnt <= DistPost) { printf("O melhor percurso é descer no ponto %d e caminhar %d metros para o fim da avenida.\n", PtAnt, DistAnt); } 
+    else { printf("O melhor percurso é descer no ponto %d e caminhar %d metros para o inicio da avenida.\n", PtPost, DistPost) ; }
     
 }
