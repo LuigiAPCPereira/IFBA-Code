@@ -15,9 +15,9 @@ int main(){
         dias = idade % 365;
         meses = dias / 30;
         dias = dias % 30;
+        
+        printf("[R] Idade: %d = %d anos, %d meses e %d dias.", idade, anos, meses, dias);
     } else {
         printf("[ERRO] A idade não pode ser menor ou igual a zero. ");
     }
-    
-    printf("[R] Idade: %d = %d anos, %d meses e %d dias.", idade, anos, meses, dias);
 }
