@@ -20,7 +20,6 @@ int main() {
     b3 = numero % 2;
     numero /= 2;
     b4 = numero % 2;
-    numero /= 2;
     
     printf("[R] O inteiro %d em binária é: %d%d%d%d%d ", temp,b4,b3,b2,b1,b0);
 }
