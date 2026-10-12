@@ -7,10 +7,10 @@ int main() {
     
     float raio, altura, volume;
     
-    printf("[Q] Digite o raio e o volume do cilindro: \n-> ");
+    printf("[Q] Digite o raio e a altura do cilindro: \n-> ");
     scanf("%f %f", &raio, &altura);
     
     volume = 3.14 * (raio * raio) * altura;
     
-    printf("[R] O volume do cilindro de %.2f raio e %2.f altura é: %2.f", raio, altura, volume);
+    printf("[R] O volume do cilindro de %.2f raio e %.2f altura é: %.2f", raio, altura, volume);
 }
