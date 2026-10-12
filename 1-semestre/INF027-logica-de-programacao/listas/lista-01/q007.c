@@ -10,7 +10,7 @@ int main(){
     printf("[Q] Digite a idade em dias: \n-> ");
     scanf("%d", &idade);
     
-    if (idade = 0) {
+    if (idade > 0) {
         anos = idade / 365;
         dias = idade % 365;
         meses = dias / 30;
