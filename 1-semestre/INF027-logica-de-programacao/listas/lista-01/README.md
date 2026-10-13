@@ -8,7 +8,7 @@ https://ads.ifba.edu.br/dl1012
 
 ## Meu progresso
 
-**5 de 100 questões com solução no repositório.**
+**15 de 100 questões com arquivo de solução no repositório.**
 
 - [ ] ainda não enviei uma solução;
 - [x] a solução já está no GitHub;
@@ -19,16 +19,16 @@ https://ads.ifba.edu.br/dl1012
 - [x] **[Q001](./q001.c)** — Calcular área e perímetro de um retângulo a partir da base e da altura.
 - [x] **[Q002](./q002.c)** — Calcular área e perímetro de um quadrado a partir do lado.
 - [x] **[Q003](./q003.c)** — Calcular área e perímetro de uma circunferência a partir do raio.
-- [ ] **Q004** — Calcular o perímetro de um triângulo a partir dos três lados.
-- [ ] **Q005** — Ler um inteiro e exibir seu sucessor.
-- [ ] **Q006** — Ler dois inteiros e exibir quociente e resto da divisão inteira.
-- [ ] **Q007** — Converter uma idade informada em dias para anos, meses e dias.
-- [ ] **Q008** — Converter uma temperatura de Fahrenheit para Celsius.
-- [ ] **Q009** — Calcular o volume de uma lata/cilindro a partir de raio e altura.
-- [ ] **Q010** — Converter um inteiro menor que 32 para sua representação binária.
-- [ ] **Q011** — Calcular a nota semestral pela média das notas de dois bimestres, cada um com duas provas.
-- [ ] **Q012** — Converter uma velocidade de m/s para km/h.
-- [ ] **Q013** — Calcular a resistência equivalente de R1 e R2 em paralelo, em série com R3.
+- [x] **[Q004](./q004.c)** — Calcular o perímetro de um triângulo a partir dos três lados.
+- [x] **[Q005](./q005.c)** — Ler um inteiro e exibir seu sucessor.
+- [x] **[Q006](./q006.c)** — Ler dois inteiros e exibir quociente e resto da divisão inteira.
+- [x] **[Q007](./q007.c)** — Converter uma idade informada em dias para anos, meses e dias.
+- [x] **[Q008](./q008.c)** — Converter uma temperatura de Fahrenheit para Celsius.
+- [x] **[Q009](./q009.c)** — Calcular o volume de uma lata/cilindro a partir de raio e altura.
+- [x] **[Q010](./q010.c)** — Converter um inteiro menor que 32 para sua representação binária.
+- [x] **[Q011](./q011.c)** — Calcular a nota semestral pela média das notas de dois bimestres, cada um com duas provas.
+- [x] **[Q012](./q012.c)** — Converter uma velocidade de m/s para km/h.
+- [x] **[Q013](./q013.c)** — Calcular a resistência equivalente de R1 e R2 em paralelo, em série com R3.
 - [ ] **Q014** — Calcular o atraso adequado entre semáforos usando distância, velocidade e aceleração.
 - [ ] **Q015** — Estimar a altura de um prédio comparando sua sombra com a sombra de uma pessoa de altura conhecida.
 - [ ] **Q016** — Gerar o número invertido de um inteiro com três algarismos.
@@ -143,7 +143,7 @@ https://ads.ifba.edu.br/dl1012
 
 Quando termino uma questão, salvo o código nesta mesma pasta usando o número dela no nome do arquivo.
 
-Já tenho soluções da **[Q001](./q001.c)**, **[Q002](./q002.c)**, **[Q003](./q003.c)**, **[Q032](./q032.c)** e **[Q040](./q040.c)**.
+Já tenho arquivos de solução das **Q001 a Q013**, além das **[Q032](./q032.c)** e **[Q040](./q040.c)**. Os checkboxes acima indicam presença do arquivo no repositório, não necessariamente validação completa do código.
 
 Assim, esta pasta vai ficando mais ou menos assim:
 
@@ -153,6 +153,8 @@ lista-01/
 ├── q001.c
 ├── q002.c
 ├── q003.c
+├── ...
+├── q013.c
 ├── q032.c
 ├── q040.c
 └── ...
