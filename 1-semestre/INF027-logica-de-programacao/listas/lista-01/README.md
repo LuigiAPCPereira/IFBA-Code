@@ -8,7 +8,7 @@ https://ads.ifba.edu.br/dl1012
 
 ## Meu progresso
 
-**15 de 100 questões com arquivo de solução no repositório.**
+**25 de 100 questões com arquivo de solução no repositório.**
 
 - [ ] ainda não enviei uma solução;
 - [x] a solução já está no GitHub;
@@ -29,20 +29,20 @@ https://ads.ifba.edu.br/dl1012
 - [x] **[Q011](./q011.c)** — Calcular a nota semestral pela média das notas de dois bimestres, cada um com duas provas.
 - [x] **[Q012](./q012.c)** — Converter uma velocidade de m/s para km/h.
 - [x] **[Q013](./q013.c)** — Calcular a resistência equivalente de R1 e R2 em paralelo, em série com R3.
-- [ ] **Q014** — Calcular o atraso adequado entre semáforos usando distância, velocidade e aceleração.
-- [ ] **Q015** — Estimar a altura de um prédio comparando sua sombra com a sombra de uma pessoa de altura conhecida.
-- [ ] **Q016** — Gerar o número invertido de um inteiro com três algarismos.
-- [ ] **Q017** — Decompor um valor de saque na menor quantidade possível de notas disponíveis.
-- [ ] **Q018** — Permutar os valores de duas variáveis inteiras.
-- [ ] **Q019** — Calcular a raiz de uma equação do primeiro grau.
-- [ ] **Q020** — Dividir o preço de uma mercadoria em entrada e duas prestações inteiras iguais conforme as regras propostas.
+- [x] **[Q014](./q014.c)** — Calcular o atraso adequado entre semáforos usando distância, velocidade e aceleração.
+- [x] **[Q015](./q015.c)** — Estimar a altura de um prédio comparando sua sombra com a sombra de uma pessoa de altura conhecida.
+- [x] **[Q016](./q016.c)** — Gerar o número invertido de um inteiro com três algarismos.
+- [x] **[Q017](./q017.c)** — Decompor um valor de saque na menor quantidade possível de notas disponíveis.
+- [x] **[Q018](./q018.c)** — Permutar os valores de duas variáveis inteiras.
+- [x] **[Q019](./q019.c)** — Calcular a raiz de uma equação do primeiro grau.
+- [x] **[Q020](./q020.c)** — Dividir o preço de uma mercadoria em entrada e duas prestações inteiras iguais conforme as regras propostas.
 
 
 ### 21–40 · Estruturas condicionais
 
-- [ ] **Q021** — Informar se um número lido é positivo ou negativo.
-- [ ] **Q022** — Exibir o módulo (valor absoluto) de um número.
-- [ ] **Q023** — Informar se um número inteiro é par ou ímpar.
+- [x] **[Q021](./q021.c)** — Informar se um número lido é positivo ou negativo.
+- [x] **[Q022](./q022.c)** — Exibir o módulo (valor absoluto) de um número.
+- [x] **[Q023](./q023.c)** — Informar se um número inteiro é par ou ímpar.
 - [ ] **Q024** — Ler três números e mostrar o maior.
 - [ ] **Q025** — Receber o número de um mês e informar quantos dias ele possui.
 - [ ] **Q026** — Ler três valores e calcular a soma dos dois maiores.
@@ -143,7 +143,7 @@ https://ads.ifba.edu.br/dl1012
 
 Quando termino uma questão, salvo o código nesta mesma pasta usando o número dela no nome do arquivo.
 
-Já tenho arquivos de solução das **Q001 a Q013**, além das **[Q032](./q032.c)** e **[Q040](./q040.c)**. Os checkboxes acima indicam presença do arquivo no repositório, não necessariamente validação completa do código.
+Já tenho arquivos de solução das **Q001 a Q023**, além das **[Q032](./q032.c)** e **[Q040](./q040.c)**. Os checkboxes acima indicam presença do arquivo no repositório, não necessariamente validação completa do código.
 
 Assim, esta pasta vai ficando mais ou menos assim:
 
@@ -155,9 +155,10 @@ lista-01/
 ├── q003.c
 ├── ...
 ├── q013.c
+├── ...
+├── q023.c
 ├── q032.c
-├── q040.c
-└── ...
+└── q040.c
 ```
 
 Sempre que eu adicionar uma solução, também atualizo o checkbox correspondente acima.
